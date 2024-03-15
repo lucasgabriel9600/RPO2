@@ -1,6 +1,6 @@
 package application.model;
 
-public class Atividade {
+public interface Atividade {
      public String getDetalhes(); 
     
 }

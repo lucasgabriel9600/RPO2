@@ -11,6 +11,6 @@ public class App {
         System.out.println(t.getConcluido());
 
         Tarefa t2 = new Tarefa("segunda Tarefa");
-        System.out.println(t2.getDescricao());
+        System.out.println(t2.getDetalhes());
     }
     }
